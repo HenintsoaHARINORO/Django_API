@@ -1,6 +1,4 @@
-.env
+
 .git
-pylama.ini
-pyproject.toml
-pytest.ini
+
 
